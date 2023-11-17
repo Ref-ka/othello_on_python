@@ -55,6 +55,7 @@ class Button(ctk.CTkButton):
     #             yield inst
 
 def get(button):
+    print('button')
     print(button)
     print(button.get_coords())
 
