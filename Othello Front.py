@@ -4,7 +4,7 @@ import customtkinter as ctk
 from functools import partial
 
 
-place = [[0, 0, 0, 0, 0, 0, 0, 2],
+place = [[1, 0, 0, 0, 0, 0, 0, 2],
          [0, 0, 0, 0, 0, 0, 0, 0],
          [0, 0, 0, 0, 0, 0, 0, 0],
          [0, 0, 0, 2, 1, 0, 0, 0],
